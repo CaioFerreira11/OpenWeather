@@ -121,6 +121,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - caiojorge5@gmail.com
 
 Project Link: [https://github.com/yourusername/openweather-data-collector](https://github.com/yourusername/openweather-data-collector)
