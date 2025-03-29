@@ -121,6 +121,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - caiojorge5@gmail.com
+Email - caiojorge5@gmail.com
 
-Project Link: [https://github.com/yourusername/openweather-data-collector](https://github.com/yourusername/openweather-data-collector)
+Linkedin - https://www.linkedin.com/in/caio-ferreira-abreu/
